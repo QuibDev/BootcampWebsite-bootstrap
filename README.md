@@ -5,7 +5,6 @@ A simple BootCamp Website created using bootstrap and javascript - It contains.
 ![navbar](https://user-images.githubusercontent.com/89295808/155297074-c0025cdb-28dc-433a-937f-b17b45802966.jpg)
 
 
-
 <h2>#2 Landing Page</h2>
 ![landing-page](https://user-images.githubusercontent.com/89295808/155296034-3cc709a2-2c68-4fab-80bd-85f901493ca7.png)
 
