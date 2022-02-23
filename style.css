@@ -1,0 +1,21 @@
+body::before {
+  display: block;
+  content: "";
+  height: 50px;
+}
+
+/*If the size of the screen
+is greater than medium (768px)
+set the width of the box to 50%
+of the screen */
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
