@@ -2,7 +2,7 @@
 A simple BootCamp Website created using bootstrap and javascript - It contains.
 
 <h2>#1 A Top Navbar (sticky)</h2>
-![navbar](https://user-images.githubusercontent.com/89295808/155295940-1838dc75-e02e-415c-8020-1f225f194513.jpg)
+![navbar](https://user-images.githubusercontent.com/89295808/155297074-c0025cdb-28dc-433a-937f-b17b45802966.jpg)
 
 
 
